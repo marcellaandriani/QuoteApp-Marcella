@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuoteApp</string>
+    <string name="text_quote">Quotes\n</string>
+    <string name="text_cart_is_empty">Cart is Empty</string>
+</resources>
